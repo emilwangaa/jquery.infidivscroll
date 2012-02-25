@@ -1,0 +1,11 @@
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# I don't wan't jQuery to be part of the packages
+jquery-1.7.1.min.js
