@@ -1,3 +1,18 @@
+/*
+	--------------------------------
+	Infinite Div Scroll
+	--------------------------------
+	+ https://github.com/emilwangaa/jquery.infidivscroll
+	+ version 1.0.0-alpha
+	+ Copyright 2012 Emil Mads Wangaa Rasmussen
+	+ Licensed under the MIT license
+
+	+ Inspiration:
+		+ Paul Irish's & Luke Shumard's infinite scroll: http://infinite-scroll.com/
+		+ Marco Kuiper's Unlimited Scroll using the Twitter API: http://www.marcofolio.net/webdesign/jquery_quickie_unlimited_scroll_using_the_twitter_api.html
+
+*/
+
 (function($) {
 
 	var settings;
@@ -122,7 +137,6 @@
 	* based on smartresize by @louis_remi: https://github.com/lrbabe/jquery.smartresize.js *
 	* Copyright 2011 Louis-Remi & lukeshumard * Licensed under the MIT license. *
 	*/
-	
 	
 	var event = $.event,
 		scrollTimeout;
